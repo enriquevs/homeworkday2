@@ -1,0 +1,22 @@
+p{
+  font-family: sans-serif;
+}
+.conteiner{
+display: flex;
+justify-content: flex-end;
+flex-direction: row-reverse;
+height: 50px;
+width: 100%;
+}
+.img{
+  height: 40px;
+  width: 40px;
+}
+.social{
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+hr{
+  height: 3px;
+  background-color: black;
+}

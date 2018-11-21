@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+}
+hr{
+  height: 3px;
+  background-color: black;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.menu{
+  height: 40px;
+  width: 100px;
+  margin-left: 16px;
+  display: inline-block;
+  background-color:  rgb(205,92,92);
+  font-family: Gill Sans, Candara, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+.container{
+  display: inline-block;
+}
+.search{
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 40px;;
+  width: 500px;
+  height: 40px;
+}
+
+input[type=search] {
+  height: 40pxx;
+  border-bottom: 1px solid grey;
+  border-style: none none solid none;
+}

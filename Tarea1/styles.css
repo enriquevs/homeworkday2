@@ -1,0 +1,32 @@
+div{
+  padding-left: 100px;
+  padding-right: 600px;
+  text-align: justify;
+  font-family: Georgia, Palatino, serif;
+  background-color: FBF9F1;;
+}
+h1{
+  font-size: 30px;
+  color: #424949;
+}
+h2{
+  font-size: 40px;
+  color: #424949;
+}
+span{
+  padding: 2px;
+  background-color: #424949;
+  color: white;
+}
+p{
+  font-size: 25px;
+  line-height: 1.25;
+  color: #424949;
+}
+a{
+  color:  #77A8D2;
+}
+.sub{
+  text-decoration: underline;
+  color:#424949;
+}
